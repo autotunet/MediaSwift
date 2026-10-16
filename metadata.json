@@ -1,0 +1,6 @@
+{
+  "name": "TubeConvert",
+  "description": "Descarga videos mediante enlace URL y conviértelos a formatos de video o MP3 seleccionando calidad y resolución.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
